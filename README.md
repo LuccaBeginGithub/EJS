@@ -1,2 +1,2 @@
 # EJS
-use ejs template to render diffenrent html pages.
+use EJS template to render different html pages.
